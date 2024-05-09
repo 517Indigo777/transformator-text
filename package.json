@@ -1,0 +1,22 @@
+{
+    "name": "transformator-text",
+    "version": "1.0.0",
+    "description": "Простий Node.js пакет для трансформації тексту",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/517Indigo777/transformator-text.git"
+    },
+    "author": "Your Name",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/517Indigo777/transformator-text/issues"
+    },
+    "homepage": "https://github.com/517Indigo777/transformator-text#readme",
+    "dependencies": {
+      "upper-case": "^1.1.3"
+    }
+  }
